@@ -1,0 +1,37 @@
+
+.grid{ 
+  display: grid;
+}
+
+.quantity-display{ 
+  display: flex;
+  justify-content: center;
+
+}
+button{ 
+  margin: 15px;
+}
+
+input{ margin-right: 600px;
+  margin-left: 600px;
+}
+.grid{ 
+  gap: 13px;
+}
+.input{ margin-top: 20px;}
+.result{ 
+  
+  background-color: yellow;
+  width: 300px;
+  height: 70px;
+  position: absolute;
+  left:540px;
+  top: 60px;
+}
+
+
+
+
+
+
+
