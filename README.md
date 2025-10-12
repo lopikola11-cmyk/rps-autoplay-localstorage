@@ -1,26 +1,63 @@
-# Rock Paper Scissors – Autoplay & Score Tracking
+# Rock Paper Scissors with Autoplay & Local Storage
 
-A Rock–Paper–Scissors game built with **HTML, CSS, and Vanilla JavaScript**.  
-Supports manual play and an **autoplay** mode where the game plays automatically. Scores are saved in **LocalStorage** so results persist across sessions.
+🔗 Live Demo: https://lopikola11-cmyk.github.io/rps-autoplay-localstorage/
 
-## Features
-- Manual play: choose Rock, Paper, or Scissors  
-- Autoplay mode: the game plays automatically and updates the score continuously  
-- Score tracking stored in LocalStorage  
-- Reset button to clear score  
-- Minimal UI with responsive layout
+This game is built entirely with **HTML, CSS, and vanilla JavaScript**.  
+It supports both **manual play** and **autoplay mode**, tracks scores using **LocalStorage**, and maintains them across page loads.
 
-## Technologies
-- HTML5
-- CSS3
-- JavaScript (ES6)
+---
+
+## 🎮 Features
+
+- ▶ Play manually: select Rock, Paper, or Scissors  
+- 🤖 Autoplay mode: game plays automatically at intervals  
+- 🏆 Score tracking saved in LocalStorage  
+- 🔄 Reset button to clear scores  
+- 📱 Simple UI that works on different screen sizes
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
 - LocalStorage
 
-## How to use
-1. Open `index.html` in your browser or use the GitHub Pages demo.  
-2. Click a move button (Rock / Paper / Scissors) to play manually.  
-3. Click **Autoplay** to let the game play by itself.  
-4. Use **Reset** to clear the score.
+---
 
-## Author
-**Abderrahman Zerouali**
+## 🧭 How It Works
+
+1. Open `index.html` or view the Live Demo  
+2. Click a button (Rock / Paper / Scissors) for manual play  
+3. Press **Autoplay** to let the game run itself  
+4. Scores are updated and saved automatically  
+5. Click **Reset** to clear all scores and start fresh
+
+---
+
+## 🎯 Purpose
+
+This project demonstrates my ability to implement:
+- Game logic in JavaScript  
+- Persistent storage with LocalStorage  
+- UI interaction and DOM updates  
+- Autoplay loop logic without frameworks
+
+---
+
+## ‼️ Future Improvements
+
+- Add sound effects  
+- Visual feedback for wins/losses  
+- Improve UI styling with animations  
+- Add user input for number of rounds  
+- Add history logs of matches
+
+---
+
+## 📌 Author
+
+**Abderrahman Zerouali**  
+GitHub: lopikola11-cmyk
+
